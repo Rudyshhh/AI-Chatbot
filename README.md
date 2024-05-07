@@ -4,7 +4,7 @@ Pikachu is an AI chatbot designed to engage in informative and comprehensive con
 
 Features
 
-Conversational AI: Brock leverages natural language processing techniques to understand and respond to user queries in a comprehensive and informative way.
+Conversational AI: Pikachu leverages natural language processing techniques to understand and respond to user queries in a comprehensive and informative way.
 Personalized Identity: The chatbot identifies as Pikachu from Pokemon, fostering a more engaging and relatable user experience.
 
 Pikachu's responses and areas of expertise to align with and restricted to the domain of Pokemon.
